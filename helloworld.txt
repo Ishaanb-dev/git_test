@@ -1,3 +1,5 @@
 Hello World I am editing this using only keyboard shortcuts LOL
 
 I am going to test a multiline git message after this change
+
+Second change to test multiline git messages
